@@ -70,6 +70,8 @@ body {
 }
 .modulo {
     flex-basis: 32%;
+    margin-bottom: 20px;
+    border-radius: 5px;
 }
 .modulo > h3 {
     margin: 0px;
@@ -85,8 +87,8 @@ body {
     list-style: none;
 }
 .modulo > ul > li {
-    padding: 10px;
-    font-size: 1.3rem;
+    padding: 7px;
+    font-size: 1.2rem;
     cursor: pointer;
 }
 .modulo > ul > li > a {
@@ -94,3 +96,11 @@ body {
     text-decoration: none;
     color: #222;
 }
+.modulo > ul > li:hover {
+    background-color: #eee;
+}
+
+
+.modulo.yellow { border: 2px solid rgb(66, 136, 59); }
+.modulo.yellow > h3 {background-color: rgb(66, 136, 59); } 
+
