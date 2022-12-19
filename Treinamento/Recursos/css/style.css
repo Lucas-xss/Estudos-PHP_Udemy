@@ -104,3 +104,34 @@ body {
 .modulo.yellow { border: 2px solid rgb(66, 136, 59); }
 .modulo.yellow > h3 {background-color: rgb(66, 136, 59); } 
 
+.modulo.red { border: 2px solid red; }
+.modulo.red > h3 {background-color: red; } 
+
+.modulo.azul { border: 2px solid #1867c0; }
+.modulo.azul > h3 {background-color: #1867c0; }
+
+.modulo.roxo { border: 2px solid purple; }
+.modulo.roxo > h3 {background-color: purple; } 
+
+.modulo.beg { border: 2px solid bisque; }
+.modulo.beg > h3 {background-color: bisque; } 
+
+.modulo.laranja { border: 2px solid orange; }
+.modulo.laranja > h3 {background-color: orange; } 
+
+.modulo.rosa { border: 2px solid pink; }
+.modulo.rosa > h3 {background-color: pink; } 
+
+.modulo.marrom { border: 2px solid brown; }
+.modulo.marrom > h3 {background-color: brown; } 
+
+.modulo.violet { border: 2px solid #4a18c0; }
+.modulo.violet > h3 {background-color: #4a18c0; } 
+
+.modulo.azul { border: 2px solid #1867c0; }
+.modulo.azul > h3 {background-color: #1867c0; } 
+
+
+
+
+
