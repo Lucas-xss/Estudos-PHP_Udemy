@@ -21,8 +21,8 @@
                     <h3>Módulo 01</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=Aulas&file=ola"> Olá Php</a></li>
-                        <li><a href="#"> Exercício - 2</a></li>
-                        <li><a href="#"> Exercício - 3</a></li>
+                        <li><a href="#"> Integração Html</a></li>
+                        <li><a href="#"> Integração Css</a></li>
                         <li><a href="#"> Exercício - 4</a></li>
                         <li><a href="#"> Exercício - 5</a></li>
                         <li><a href="#"> Exercício - 6</a></li>
