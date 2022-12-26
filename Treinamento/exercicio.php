@@ -22,7 +22,7 @@
     </nav>
     <main class="principal">
         <div class="conteudo">
-            <h1 class="titulo">Teste</h1>
+            <h1 class="titulo">Conteúdo</h1>
             
             <?php
                 include ( __DIR__."/{$_GET['dir']}/{$_GET['file']}.php");

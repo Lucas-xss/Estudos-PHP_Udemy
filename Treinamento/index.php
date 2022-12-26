@@ -20,7 +20,7 @@
                 <div class="modulo yellow">
                     <h3>Módulo 01</h3>
                     <ul>
-                        <li><a href="exercicio.php?dir=teste&file=teste"> Exercício - 1</a></li>
+                        <li><a href="exercicio.php?dir=Aulas&file=ola"> Olá Php</a></li>
                         <li><a href="#"> Exercício - 2</a></li>
                         <li><a href="#"> Exercício - 3</a></li>
                         <li><a href="#"> Exercício - 4</a></li>
