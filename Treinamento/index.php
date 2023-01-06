@@ -89,6 +89,22 @@
                         </li>
                     </ul>
                 </div>
+                <div class="modulo rosa">
+                    <h3>Tipos</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=basico">
+                                Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                                Desafio equação
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
             </nav>
         </div>
     </main>
